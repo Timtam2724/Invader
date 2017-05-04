@@ -1,0 +1,236 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4352
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\tim.fuller3\Documents\Invader\Invader_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\tim.fuller3\Documents\Invader\Invader_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\tim.fuller3\Documents\Invader\Invader_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\tim.fuller3\Documents\Invader\Invader_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\tim.fuller3\Documents\Invader\Invader_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\tim.fuller3\Documents\Invader\Invader_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\tim.fuller3\Documents\Invader\Invader_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\tim.fuller3\Documents\Invader\Invader_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\tim.fuller3\Documents\Invader\Invader_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\tim.fuller3\Documents\Invader\Invader_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Users\tim.fuller3\Documents\Invader\Invader_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\tim.fuller3\Documents\Invader\Invader_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.495240 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2538 -> priority: 1 
+  Thread -> id: 2cfc -> priority: 1 
+The referenced script on this Behaviour (Game Object 'BurnBarrel') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'BurnBarrel') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'BurnBarrel') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'BurnBarrel') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'BurnBarrel') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'BurnBarrel') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'BurnBarrel') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'BurnBarrel') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.039851 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1354.
+Total: 0.484284 ms (FindLiveObjects: 0.196922 ms CreateObjectMapping: 0.026621 ms MarkObjects: 0.217344 ms  DeleteObjects: 0.041572 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.403187 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 527.
+Total: 0.205310 ms (FindLiveObjects: 0.035737 ms CreateObjectMapping: 0.014222 ms MarkObjects: 0.137481 ms  DeleteObjects: 0.017139 ms)
+
+The referenced script on this Behaviour (Game Object 'Cockpit') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Cockpit') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Blimp') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Blimp (3)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Cockpit') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Cockpit') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Blimp (1)') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.214357 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1575.
+Total: 0.602437 ms (FindLiveObjects: 0.133469 ms CreateObjectMapping: 0.039019 ms MarkObjects: 0.343885 ms  DeleteObjects: 0.084603 ms)
+
+The referenced script on this Behaviour (Game Object 'Cockpit') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Cockpit') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Blimp') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Blimp (3)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Cockpit') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Cockpit') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Blimp (1)') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.729343 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1575.
+Total: 0.284079 ms (FindLiveObjects: 0.064546 ms CreateObjectMapping: 0.037561 ms MarkObjects: 0.177230 ms  DeleteObjects: 0.004011 ms)
+
+The referenced script on this Behaviour (Game Object 'Cockpit') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Cockpit') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Blimp') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Blimp (3)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Cockpit') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Cockpit') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Blimp (1)') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.607543 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1575.
+Total: 0.238860 ms (FindLiveObjects: 0.047407 ms CreateObjectMapping: 0.036831 ms MarkObjects: 0.150244 ms  DeleteObjects: 0.004011 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.SetScoreText () [0x00000] in <filename unknown>:0 
+  at Enemy.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.SetScoreText () [0x00000] in <filename unknown>:0 
+  at Enemy.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.SetScoreText () [0x00000] in <filename unknown>:0 
+  at Enemy.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.SetScoreText () [0x00000] in <filename unknown>:0 
+  at Enemy.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.SetScoreText () [0x00000] in <filename unknown>:0 
+  at Enemy.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.SetScoreText () [0x00000] in <filename unknown>:0 
+  at Enemy.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.SetScoreText () [0x00000] in <filename unknown>:0 
+  at Enemy.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.SetScoreText () [0x00000] in <filename unknown>:0 
+  at Enemy.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Enemy.SetScoreText () [0x00000] in <filename unknown>:0 
+  at Enemy.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.164762 ms
+
+Unloading 95 unused Assets to reduce memory usage. Loaded Objects now: 527.
+Total: 0.466780 ms (FindLiveObjects: 0.062358 ms CreateObjectMapping: 0.033549 ms MarkObjects: 0.186712 ms  DeleteObjects: 0.183065 ms)
+
